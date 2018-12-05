@@ -2,6 +2,8 @@
 
 ## Step 1: Getting bank transactions
 Download bank transactions, save them to a folder (I recommend a specific YNAB folder, examples will use ynab/conversion folder)
+For ING: download as .csv
+For ABN: download as text
 
 ## Step 2: Converting the file
 1. Open your terminal of choice (Windows: `cmd.exe`, `powershell`), this will usually open in your personal folder (eg. /User/rhea)
